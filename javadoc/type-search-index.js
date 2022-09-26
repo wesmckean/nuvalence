@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sandbox","l":"App"},{"p":"sandbox","l":"Point"},{"p":"sandbox","l":"Rectangle"}];updateSearchResults();
